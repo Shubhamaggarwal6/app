@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585568811733",
+    "project_id": "mart-dfae7",
+    "storage_bucket": "mart-dfae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585568811733:android:c15048bfb26cd1e814c05c",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585568811733-326pogr491a30ef7pjrdji0q1j58e8fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbnhDgQRZQlRBIh09inLvPyTGPp0qcks4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585568811733-326pogr491a30ef7pjrdji0q1j58e8fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
